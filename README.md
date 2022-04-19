@@ -1,7 +1,7 @@
 # EAC-bypass
 Free bypass for any game with EAC (Easy Anti Cheat).
 
-#ENG
+# ENG
 1) Download and extract the file
 2) Find the folder with the file "start_protected_game.exe"
 3) run the program and paste this path there
@@ -10,7 +10,8 @@ Free bypass for any game with EAC (Easy Anti Cheat).
 Ready!
 
 I recommend disabling your antivirus first.
-#CH
+
+# CH
 1) 下载并解压文件
 2) 找到文件“start_protected_game.exe”的文件夹
 3）运行程序并将此路径粘贴到那里
